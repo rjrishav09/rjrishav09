@@ -1,9 +1,8 @@
-# Hi, I'm Rishav Bhardwaj 👋
+<h1 align="center">Hi there, I'm Rishav Bhardwaj 👋</h1>
+<h3 align="center">Full-Stack Flutter Developer & AI Engineer</h3>
+<p align="center">Building production-grade mobile apps and intelligent ML systems</p>
 
-**Full-Stack Flutter Developer & AI Engineer**  
-Building production-ready mobile applications powered by Machine Learning
-
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/rishav-bhardwaj-203b45221/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -13,17 +12,27 @@ Building production-ready mobile applications powered by Machine Learning
   <a href="https://github.com/rjrishav09">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="YOUR_RESUME_LINK_HERE">
+    <img src="https://img.shields.io/badge/Resume-Download-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rjrishav09&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 **B.Tech in Artificial Intelligence & Machine Learning** (CGPA: 7.58) — Techno International New Town (2022–2026)
+- 🎓 **B.Tech in AI & ML** (Final Year) — Techno International New Town | CGPA: 7.58
 - 🏆 **Best Presenter Award** — Springer EAIT 2026 International Conference
 - 🏛️ **Ex-Cyber Security Intern** — I4C, Ministry of Home Affairs (Delhi Police Cyber Cell)
 - 💼 Previously worked as **Full-Stack Developer** at Onkaara
-- 🎯 Currently looking for opportunities as **Full-Stack Flutter Developer** or **AI Engineer**
+- 📱 Specialized in production-grade **Flutter apps** with Node.js, FastAPI & PostgreSQL
+- 🤖 Hands-on experience in **Federated Learning, LSTM, OCR-TTS pipelines & LLM workflows**
+- 🌱 Currently building **MKDRP** — a full-stack online course marketplace (Flutter + Node.js + Prisma + Razorpay)
+- 💬 Ask me about Flutter architecture, REST API design, or deploying ML models
 
 ---
 
@@ -36,6 +45,7 @@ Building production-ready mobile applications powered by Machine Learning
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
@@ -52,40 +62,53 @@ Building production-ready mobile applications powered by Machine Learning
 
 ### 📌 Featured Projects
 
-#### 🏋️‍♂️ [GymPlanner](https://github.com/rjrishav09) — Full-Stack Fitness Planner
-Production-ready Flutter app with personalized workout plans, progress tracking & real-time sync.  
-**Tech:** Flutter • Node.js • Express • Neon PostgreSQL • JWT • Render
-
-#### 💰 [Finvita](https://github.com/rjrishav09) — AI-Powered Personal Finance Advisor
-Flutter app with custom ML model for portfolio suggestions, expense tracking & goal-based budgeting.  
-**Tech:** Flutter • FastAPI • Machine Learning • Render
-
-#### 🏥 [HealthHive](https://github.com/rjrishav09/disease-prediction-api) — Disease Prediction System
-Symptom-based disease prediction using LSTM + Federated Learning for privacy-preserving training.  
-**Tech:** Flutter • FastAPI • LSTM • Federated Learning • TensorFlow
-
-#### 🔊 [OCR-TTS API](https://github.com/rjrishav09) — Image to Speech Pipeline
-End-to-end pipeline that extracts text from images (OCR) and converts it into natural speech (TTS).  
-**Tech:** Python • PaddleOCR / Tesseract • gTTS • FastAPI • Docker
+| Project | Domain | Tech Stack | Link |
+|:--------|:-------|:-----------|:-----|
+| **MKDRP** | EdTech / Course Marketplace | Flutter, Node.js, Express, Prisma, Neon PostgreSQL, Razorpay, JWT | [GitHub](https://github.com/rjrishav09) |
+| **GymPlanner** | Full-Stack Fitness App | Flutter, Node.js, Neon PostgreSQL, JWT, Render | [GitHub](https://github.com/rjrishav09) |
+| **Finvita** | AI + FinTech | Flutter, FastAPI, Custom ML Models | [GitHub](https://github.com/rjrishav09) |
+| **HealthHive** | Healthcare AI | Flutter, FastAPI, LSTM, Federated Learning | [GitHub](https://github.com/rjrishav09/disease-prediction-api) |
+| **OCR-TTS API** | Computer Vision + Speech | Python, PaddleOCR/Tesseract, gTTS, FastAPI, Docker | [GitHub](https://github.com/rjrishav09) |
 
 ---
 
 ### 📊 GitHub Stats
 
+<!--
+  NOTE ON THE 3 IMAGES BELOW:
+  They point at the PUBLIC DEMO instance (github-readme-stats.vercel.app),
+  which is shared by millions of GitHub profiles worldwide. It frequently
+  hits GitHub's API rate limit and returns 503, which is what causes the
+  "broken image" icons you saw. This is not a mistake in your markdown —
+  it's an availability issue with the shared free service.
+
+  PERMANENT FIX — self-host your own instance (~10 min, one-time):
+    1. Fork https://github.com/anuraghazra/github-readme-stats
+    2. Deploy the fork on https://vercel.com (free tier is enough)
+    3. Create a GitHub Personal Access Token (scopes: read:user, repo)
+    4. Add it as env var PAT_1 in your Vercel project settings, redeploy
+    5. Replace every "github-readme-stats.vercel.app" and
+       "github-readme-streak-stats.vercel.app" URL below with your own,
+       e.g. https://github-readme-stats-rishav.vercel.app
+  Once self-hosted, these badges will render reliably every time.
+-->
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rjrishav09&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rjrishav09&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rjrishav09&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjrishav09&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjrishav09&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=rjrishav09&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rjrishav09&theme=tokyo-night&area=true" width="90%" />
 </p>
 
 ---
 
-### 📫 Let's Connect
-
-I'm actively looking for **Full-Stack Flutter** and **AI/ML Engineer** roles.  
-Feel free to reach out — always open to interesting opportunities and collaborations!
-
-[LinkedIn](https://www.linkedin.com/in/rishav-bhardwaj-203b45221/) • [Email](mailto:arzun.job@gmail.com)
+<p align="center">
+  <i>Thanks for stopping by! I'm actively looking for <b>Full-Stack Flutter</b> and <b>AI Engineer</b> opportunities.<br>
+  Feel free to connect or check out what I'm building 🚀</i>
+</p>
